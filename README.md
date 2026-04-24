@@ -24,17 +24,20 @@ An end-to-end analytics platform built on a public student performance dataset (
 - **Retention Risk Map** — 1,000 students segmented into 4 GPA tiers (High, Mid-High, Mid-Low, At Risk)
 - **Outreach Funnel** — Average math score by parental education level and lunch type, identifying highest priority outreach groups
 - **Test Prep ROI** — Average math score comparison between students who completed test prep vs those who did not, broken down by gender
+![Dashboard 1](dashboard1.png)
 
 ### Dashboard 2 — Performance Deep Dive
 - **Math vs Reading Score Scatter Plot** — 1,000 individual student dots colored by GPA tier, revealing strong positive correlation across all subjects
 - **GPA Tier Distribution** — Pie chart showing proportion of students in each performance tier
 - **Performance Heatmap** — Average math score by race/ethnicity group and parental education level, surfacing equity gaps
+![Dashboard 2](dashboard2.png)
 
 ### Dashboard 3 — Demographics & Equity Analysis
 - **Race/Ethnicity Radial Chart** — Student distribution across 5 anonymized race/ethnicity groups
 - **Subject Score Comparison** — Average math, reading, and writing scores side by side across all parental education levels
 - **Test Prep Completion Rates** — Completed vs not completed test prep by parental education level
 - **Gender & Socioeconomic Risk** — GPA tier distribution across gender and lunch type combinations, identifying the most vulnerable student segments
+![Dashboard 3](dashboard3.png)
 
 ## SQL Queries
 
